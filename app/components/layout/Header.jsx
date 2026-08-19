@@ -227,14 +227,14 @@ export default function Header() {
           {/* Desktop Actions */}
           <div className="hidden items-center gap-4 lg:flex">
             <a
-              href="tel:+9199987 15799"
+              href="tel:+9198989 38186"
               className="group flex items-center gap-2 text-xs font-medium tracking-wide text-[#0A1329] hover:text-[#E5A64C] transition-colors"
             >
               <span className="flex h-6 w-6 items-center justify-center rounded-full bg-slate-100 text-[#0A1329] transition-transform duration-300 group-hover:bg-[#E5A64C] group-hover:text-white group-hover:-translate-y-0.5">
                 <Phone className="h-3 w-3" />
               </span>
 
-              +91 99987 15799
+              +91 98989 38186
             </a>
 
             <Link
@@ -287,14 +287,14 @@ export default function Header() {
 
           <div className="mt-3 flex flex-col gap-2.5">
             <a
-              href="tel:+919998715799"
+              href="tel:+9198989 38186"
               className="flex items-center gap-2 py-1 text-xs font-medium tracking-wide text-[#0A1329]"
             >
               <span className="flex h-7 w-7 items-center justify-center rounded-full bg-[#E5A64C]/15 text-[#E5A64C]">
                 <Phone className="h-3.5 w-3.5" />
               </span>
 
-              +91 99987 15799
+              +91 98989 38186
             </a>
 
             <Link

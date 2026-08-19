@@ -45,14 +45,14 @@ export default function OfficesSection() {
             tag: "DIRECT TELEPHONY",
             title: "Advisory Voice Line",
             icon: Phone,
-            primaryText: "+91 99987 15799",
+            primaryText: "+91 98989 38186",
             subLines: [
-                "Alt: +91 99987 15799",
+                "Alt: +91 98989 38186",
                 "Priority Client Support",
                 "Dedicated Concierge Desk"
             ],
             actionText: "Initiate Phone Call",
-            actionHref: "tel:+9199987 15799",
+            actionHref: "tel:+9198989 38186",
             mapCoords: "Encrypted Voice Line",
             status: "Lines Operational",
             mapEmbedUrl: "https://maps.google.com/maps?q=Ganesh%20Glory%2C%20Jagatpur%20Road%2C%20Gota%2C%20Ahmedabad%2C%20Gujarat%20382470&t=&z=16&ie=UTF8&iwloc=&output=embed"
