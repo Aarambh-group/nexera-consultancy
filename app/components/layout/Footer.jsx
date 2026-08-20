@@ -86,7 +86,7 @@ const socialIcons = [
   {
     icon: <FacebookIcon className="w-3.5 h-3.5 sm:w-3 sm:h-3" />,
     label: "Facebook",
-    href: "https://www.facebook.com/people/Nexera-Visa-Consultancy/61592196149767/?sk=directory_specialties",
+    href: "https://www.facebook.com/nexera.consultancy",
   },
   {
     icon: <InstagramIcon className="w-3.5 h-3.5 sm:w-3 sm:h-3" />,
@@ -96,12 +96,7 @@ const socialIcons = [
   {
     icon: <LinkedInIcon className="w-3.5 h-3.5 sm:w-3 sm:h-3" />,
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/nexera-consultancy-2aba87423/",
-  },
-  {
-    icon: <GmbIcon className="w-3.5 h-3.5 sm:w-3 sm:h-3" />,
-    label: "GMB",
-    href: "https://www.google.com/search?hl=en&authuser=0&sca_esv=77821bc6db13ead3&biw=1707&bih=811&sxsrf=APpeQnuMq4ZKrVhPLqn3Ddxmcjzj8UC0CA%3A1785301657140&q=Nexera%20Visa%20Consultancy&mat=CXgD9w0mDSH6&zx=1785301667998&ihs=0",
+    href: "https://www.linkedin.com/company/nexera-visa-consultancy/",
   },
 ];
 
